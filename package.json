@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/feature-flag",
+  "name": "@philiprehberger/ts-feature-flag",
   "version": "0.1.0",
   "description": "Simple in-memory feature flag system with percentage rollouts and targeting",
   "type": "module",
@@ -12,8 +12,8 @@
   "devDependencies": { "tsup": "^8.0.0", "typescript": "^5.0.0" },
   "keywords": ["feature-flag", "toggle", "rollout", "targeting", "feature-toggle"],
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/philiprehberger/feature-flag.git" },
-  "homepage": "https://github.com/philiprehberger/feature-flag#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/feature-flag/issues" },
+  "repository": { "type": "git", "url": "git+https://github.com/philiprehberger/ts-feature-flag.git" },
+  "homepage": "https://github.com/philiprehberger/ts-feature-flag#readme",
+  "bugs": { "url": "https://github.com/philiprehberger/ts-feature-flag/issues" },
   "author": "Philip Rehberger", "engines": { "node": ">=18.0.0" }, "sideEffects": false
 }
