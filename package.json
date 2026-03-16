@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/ts-feature-flag",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Simple in-memory feature flag system with percentage rollouts and targeting",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -25,7 +25,8 @@
     "build": "tsup",
     "dev": "tsup --watch",
     "typecheck": "tsc --noEmit",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "test": "node --test"
   },
   "devDependencies": {
     "tsup": "^8.0.0",

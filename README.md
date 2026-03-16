@@ -1,6 +1,6 @@
 # @philiprehberger/ts-feature-flag
 
-[![CI](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-feature-flag.svg)](https://www.npmjs.com/package/@philiprehberger/ts-feature-flag)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-feature-flag)](LICENSE)
 
@@ -42,6 +42,15 @@ flags.enabled('betaFeature', { role: 'user' });   // false
 | Boolean | `true` / `false` | Static on/off |
 | Percentage | `{ percentage: 50 }` | Deterministic rollout by userId hash |
 | Function | `{ enabled: (ctx) => ... }` | Custom targeting logic |
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 
