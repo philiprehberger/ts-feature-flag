@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-feature-flag.svg)](https://www.npmjs.com/package/@philiprehberger/ts-feature-flag)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-feature-flag)](LICENSE)
 
-Simple in-memory feature flag system with percentage rollouts and targeting.
+Simple in-memory feature flag system with percentage rollouts and targeting
 
 ## Installation
 
