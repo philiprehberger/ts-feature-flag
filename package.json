@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/ts-feature-flag",
+  "name": "@philiprehberger/feature-flag",
   "version": "0.1.4",
   "description": "Simple in-memory feature flag system with percentage rollouts and targeting",
   "type": "module",

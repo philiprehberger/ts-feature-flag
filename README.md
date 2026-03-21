@@ -1,7 +1,7 @@
-# @philiprehberger/ts-feature-flag
+# @philiprehberger/feature-flag
 
 [![CI](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-feature-flag.svg)](https://www.npmjs.com/package/@philiprehberger/ts-feature-flag)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/feature-flag.svg)](https://www.npmjs.com/package/@philiprehberger/feature-flag)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-feature-flag)](LICENSE)
 
 Simple in-memory feature flag system with percentage rollouts and targeting
@@ -9,13 +9,13 @@ Simple in-memory feature flag system with percentage rollouts and targeting
 ## Installation
 
 ```bash
-npm install @philiprehberger/ts-feature-flag
+npm install @philiprehberger/feature-flag
 ```
 
 ## Usage
 
 ```ts
-import { createFlags } from '@philiprehberger/ts-feature-flag';
+import { createFlags } from '@philiprehberger/feature-flag';
 
 const flags = createFlags({
   newCheckout: true,
