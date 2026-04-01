@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/feature-flag",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "description": "Simple in-memory feature flag system with percentage rollouts and targeting",
   "type": "module",
   "main": "./dist/index.cjs",

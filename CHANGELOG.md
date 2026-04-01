@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0
+
+- Add flag scheduling with date-based activation windows
+- Add A/B variant assignment for multivariate testing
+- Add flag dependency chains
+- Add per-context overrides for specific users
+
 ## 0.1.6
 
 - Standardize README to 3-badge format with emoji Support section
