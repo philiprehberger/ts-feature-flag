@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1
+
+- Fix README GitHub URLs to use correct repo name (ts-feature-flag)
+
 ## 0.2.0
 
 - Add flag scheduling with date-based activation windows

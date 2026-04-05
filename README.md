@@ -1,8 +1,8 @@
 # @philiprehberger/feature-flag
 
-[![CI](https://github.com/philiprehberger/feature-flag/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/feature-flag/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-feature-flag/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/feature-flag.svg)](https://www.npmjs.com/package/@philiprehberger/feature-flag)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/feature-flag)](https://github.com/philiprehberger/feature-flag/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-feature-flag)](https://github.com/philiprehberger/ts-feature-flag/commits/main)
 
 Simple in-memory feature flag system with percentage rollouts, targeting, scheduling, A/B variants, dependency chains, and per-context overrides
 
@@ -157,11 +157,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/feature-flag)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-feature-flag)
 
-🐛 [Report issues](https://github.com/philiprehberger/feature-flag/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-feature-flag/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/feature-flag/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-feature-flag/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
